@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 import { Link } from 'gatsby';
-// import { DiScala } from 'react-icons/di/index';
-import { FaBeer } from '@react-icons/all-files/fa/FaBeer';
+import { DiScala } from '@react-icons/all-files/di/DiScala';
 
 export const Container = styled.footer`
   display: flex;
@@ -38,7 +37,7 @@ export const SocialLogo = styled(Link)`
   cursor: pointer;
 `;
 
-export const SocialIcon = styled(FaBeer)`
+export const SocialIcon = styled(DiScala)`
   margin-right: 10px;
 `;
 

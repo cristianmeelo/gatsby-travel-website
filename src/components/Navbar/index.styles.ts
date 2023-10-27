@@ -1,7 +1,6 @@
 import { Link } from 'gatsby';
 import styled from 'styled-components';
-// import { DiScala } from 'react-icons/Di';
-import { FaBeer } from '@react-icons/all-files/fa/FaBeer';
+import { DiScala } from '@react-icons/all-files/di/DiScala';
 
 interface StyledNav {
   active: boolean;
@@ -49,7 +48,7 @@ export const NavLogo = styled(Link)`
   display: flex;
   align-items: center;
 `;
-export const NavIcon = styled(FaBeer)`
+export const NavIcon = styled(DiScala)`
   margin: 0 0.5rem 0 2rem;
 `;
 
