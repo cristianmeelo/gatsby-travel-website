@@ -42,9 +42,9 @@ export const Navbar = () => {
               <S.NavItem>
                 <S.NavLink to="/images">Images</S.NavLink>
               </S.NavItem>
-              <S.NavItem>
+              {/* <S.NavItem>
                 <S.NavLink to="/destinations">Destinations</S.NavLink>
-              </S.NavItem>
+              </S.NavItem> */}
             </S.NavMenu>
           </S.NavbarContainer>
         </S.Nav>
