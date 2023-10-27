@@ -1,10 +1,24 @@
 import React from 'react';
-
+import { FluidObject } from 'gatsby-image';
 import { graphql, useStaticQuery } from 'gatsby';
+
 import * as S from './index.styles';
 
+interface ImageData {
+  allFile: {
+    edges: {
+      node: {
+        name: string | undefined;
+        childrenImageSharp: {
+          fluid: FluidObject | FluidObject[];
+        }[];
+      };
+    }[];
+  };
+}
+
 export const Image = () => {
-  const data = useStaticQuery(graphql`
+  const data: ImageData = useStaticQuery(graphql`
     query {
       allFile(
         filter: {
@@ -30,7 +44,7 @@ export const Image = () => {
     <S.Container>
       <h1>View Your Destination</h1>
       <S.Grid>
-        {data.allFile.edges.map((image: any, key: any) => (
+        {data.allFile.edges.map((image, key) => (
           <S.Img
             key={key}
             fluid={image.node.childrenImageSharp[0].fluid}
