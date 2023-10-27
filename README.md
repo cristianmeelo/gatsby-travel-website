@@ -1,51 +1,70 @@
-https://www.youtube.com/watch?v=ThzUUdIVr_I&t=3197s&ab_channel=BrianDesign
+<table align="right">
+  <tr>
+    <td>
+      <a href="README-EN.md">🇺🇸 English (apenas no GitHub)</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Minimal TypeScript Starter
-</h1>
+![](https://github.com/cristianmeelo/gatsby-travel-website/blob/main/thumbnail.png?raw=true)
 
-## 🚀 Quick start
+![](https://github.com/cristianmeelo/gatsby-travel-website/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
 
-1.  **Create a Gatsby site.**
+<br/>
 
-    Use the Gatsby CLI to create a new site, specifying the minimal TypeScript starter.
+# Go Travel!
 
-    ```shell
-    # create a new Gatsby site using the minimal TypeScript starter
-    npm init gatsby -- -ts
-    ```
+Descubra lugares incríveis para visitar em todo o mundo no GO Travel. O site foi criado com o objetivo de proporcionar a você uma experiência de descoberta de destinos de viagem sem igual. Graças à poderosa combinação de Gatsby e GraphQL, oferecemos uma plataforma de carregamento ultrarrápido. Isso significa que você não precisa esperar muito para explorar imagens deslumbrantes dos destinos mais espetaculares da Terra.
 
-2.  **Start developing.**
+Nossas imagens de alta qualidade são carregadas de forma eficiente, permitindo que você mergulhe na beleza de cada lugar sem atrasos irritantes. Aproveite a praticidade e a velocidade que a tecnologia Gatsby e GraphQL proporcionam.
 
-    Navigate into your new site’s directory and start it up.
+Deixe-se inspirar e planeje suas próximas aventuras com o GO Travel. Explore os melhores destinos e prepare-se para uma jornada inesquecível, tudo com a vantagem de um site de carregamento ultrarrápido. A viagem dos seus sonhos está a apenas um clique de distância!
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+<div align="center">
+  <img src="https://img.shields.io/badge/-CONFIRA%20AQUI-lightblue" alt="Image App" >
+</a>
+</div>
 
-3.  **Open the code and start customizing!**
+## 🔨 Recursos do projeto
 
-    Your site is now running at http://localhost:8000!
+Desenvolvido com o Gatsby, esta aplicação apresenta uma galeria de imagens dos destinos de viagem mais procurados. Em uma única página, você terá acesso a uma coleção de imagens espetaculares de destinos incríveis.
 
-    Edit `src/pages/index.tsx` to see your site update in real-time!
+Aqui estão os recursos adaptados:
 
-4.  **Learn more**
+- Galeria de Destinos: O projeto exibe imagens em modo grid, os destinos de viagem. Cada imagem representa um local incrível para visitar.
+- Navegação Simples: A aplicação é projetada para uma experiência de usuário intuitiva, permitindo que os visitantes naveguem facilmente.
+- Visualização Responsiva: Garanta que a galeria de imagens seja responsiva para que os usuários em dispositivos móveis tenham a mesma ótima experiência de visualização.
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Tutorials](https://www.gatsbyjs.com/docs/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Guides](https://www.gatsbyjs.com/docs/how-to/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+## ⚙️ Técnicas e tecnologias usadas
 
-## 🚀 Quick start (Netlify)
+Confira essa lista de tudo que vamos usar nesse app:
 
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
+- `Gatsby`
+- `TypeScript`
+- `Styled-Components`
+- `GraphQL`
+- `Netlifly Deployment`
+- `GitHub`
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal-ts)
+## 🛠️ Abra e execute o projeto
+
+Para abrir e executar o projeto, execute `npm i` para instalar as dependências e `npm run develop` para iniciar o projeto.
+
+Em seguida, vá para <a href="http://localhost:8000/">http://localhost:8000/</a> em seu navegador.
+
+## 📚 Mais informações do tutorial
+
+O Go Travel é um aplicativo para visualizar destinos de viagem, desenvolvido a partir do tutorial [Brian Design](https://www.youtube.com/@BrianDesign).
+A ideia principal deste tutorial de implementação é aprender e desenvolver os conceitos do framework Gatsby, uma alternativa razoável comparado a um dos queridinhos do mercado atual, NextJS. O fato dele trabalhar com sites estáticos, otimiza os resultados de carregamento de arquivos, melhorando as métricas com o Google e aprimorando a experiência do usuário, Em termos de estilização, ele é bem versátil, podendo ser adaptado com tailwindCSS, emotion, styled-components, SASS. Foi meu primeiro contato com GraphQL, que já havia ouvido falar anteriormente, e parece ser um diferencial no mercado.
+
+| :placard: Vitrine.Dev |                                                                                                    |
+| --------------------- | -------------------------------------------------------------------------------------------------- |
+| :sparkles: Nome       | **Go Travel!**                                                                                     |
+| :label: Tecnologias   | Gatsby, GraphQL, TypeScript, Styled-Components, Netlify Deployment,GitHub (tecnologias utilizadas) |
+| :rocket: URL          | https://pokenext-agraq7zr3-cristianmeelo.vercel.app/                                               |
+| :fire: Desafio        | https://www.youtube.com/watch?v=ThzUUdIVr_I&t=3197s                                                |
