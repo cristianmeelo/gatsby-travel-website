@@ -16,7 +16,7 @@
 ![](https://github.com/cristianmeelo/gatsby-travel-website/blob/master/thumbnail-mockup.png?raw=true#vitrinedev)
 
 <div align="center">
-<a href="go-travel-website.netlify.app/">
+<a href="https://go-travel-website.netlify.app/">
   <img src="https://img.shields.io/badge/-CHECK%20HERE-lightblue"
   alt="Image App" >
 </a>
@@ -68,5 +68,5 @@ The main idea of ​​this implementation tutorial is to learn and develop the 
 | --------------------- | ---------------------------------------------------------------------------------------------- |
 | :sparkles: Name       | **PokeNext**                                                                                   |
 | :label: Technologies  | Gatsby, GraphQL, TypeScript, Styled-Components, Netlify Deployment,GitHub ( used Technologies) |
-| :rocket: URL          | go-travel-website.netlify.app/                                                                 |
+| :rocket: URL          | https://go-travel-website.netlify.app/                                                         |
 | :fire: Challenge      | https://www.youtube.com/watch?v=ThzUUdIVr_I&t=3197s                                            |

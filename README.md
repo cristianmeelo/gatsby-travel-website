@@ -26,7 +26,7 @@ Nossas imagens de alta qualidade são carregadas de forma eficiente, permitindo 
 Deixe-se inspirar e planeje suas próximas aventuras com o GO Travel. Explore os melhores destinos e prepare-se para uma jornada inesquecível, tudo com a vantagem de um site de carregamento ultrarrápido. A viagem dos seus sonhos está a apenas um clique de distância!
 
 <div align="center">
-<a href="go-travel-website.netlify.app/">
+<a href="https://go-travel-website.netlify.app/">
   <img src="https://img.shields.io/badge/-CONFIRA%20AQUI-lightblue" alt="Image App" >
 </a>
 </div>
@@ -67,5 +67,5 @@ A ideia principal deste tutorial de implementação é aprender e desenvolver os
 | --------------------- | -------------------------------------------------------------------------------------------------- |
 | :sparkles: Nome       | **Go Travel!**                                                                                     |
 | :label: Tecnologias   | Gatsby, GraphQL, TypeScript, Styled-Components, Netlify Deployment,GitHub (tecnologias utilizadas) |
-| :rocket: URL          | go-travel-website.netlify.app/                                                                     |
+| :rocket: URL          | https://go-travel-website.netlify.app/                                                             |
 | :fire: Desafio        | https://www.youtube.com/watch?v=ThzUUdIVr_I&t=3197s                                                |
