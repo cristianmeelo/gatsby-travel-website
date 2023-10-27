@@ -11,9 +11,9 @@
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/gatsby-travel-website/blob/main/thumbnail-en.png?raw=true)
+![](https://github.com/cristianmeelo/gatsby-travel-website/blob/master/thumbnail-en.png?raw=true)
 
-![](https://github.com/cristianmeelo/gatsby-travel-website/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/gatsby-travel-website/blob/master/thumbnail-mockup.png?raw=true#vitrinedev)
 
 <div align="center">
 <a href="https://pokenext-agraq7zr3-cristianmeelo.vercel.app/">

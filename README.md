@@ -11,9 +11,9 @@
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/gatsby-travel-website/blob/main/thumbnail.png?raw=true)
+![](https://github.com/cristianmeelo/gatsby-travel-website/blob/master/thumbnail.png?raw=true)
 
-![](https://github.com/cristianmeelo/gatsby-travel-website/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/gatsby-travel-website/blob/master/thumbnail-mockup.png?raw=true#vitrinedev)
 
 <br/>
 
