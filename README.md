@@ -49,7 +49,7 @@ Confira essa lista de tudo que vamos usar nesse app:
 - `TypeScript`
 - `Styled-Components`
 - `GraphQL`
-- `Netlifly Deployment`
+- `Netlify Deployment`
 - `GitHub`
 
 ## 🛠️ Abra e execute o projeto
